@@ -1,4 +1,4 @@
-# Sanjana Onteru
+# Hello 👋
 <!--
   Welcome to Sanjana Onteru's README
   Inspired by Daria Stanilevici's creative structure ❤️
